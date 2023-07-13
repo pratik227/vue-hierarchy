@@ -1,6 +1,6 @@
 {
   "name": "vue-hierarchy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue Hierarchy allows you to display data in hierarchy structure.",
   "main": "dist/vue-hierarchy.umd.js",
   "module": "dist/vue-hierarchy.esm.js",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/pratik227/vue-hierarchy/issues"
   },
-  "homepage": "",
+  "homepage": "https://vue-hierarchy.netlify.app/",
   "devDependencies": {
     "rollup": "^1.32.1",
     "rollup-plugin-commonjs": "^9.3.4",

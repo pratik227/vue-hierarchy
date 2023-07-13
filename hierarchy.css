@@ -1,0 +1,61 @@
+
+.vue-hierarchy {
+  overflow: auto;
+  background: #fff;
+  color: #000;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, .12);
+  box-shadow: none;
+  position: relative;
+  width: 100%;
+}
+
+.vue-hierarchy td, .vue-hierarchy th, .vue-hierarchy thead, .vue-hierarchy tr {
+  border-color: #0000001f;
+}
+
+.vue-hierarchy td, .vue-hierarchy th {
+  background-color: inherit;
+  padding: 7px 16px;
+}
+
+.vue-hierarchy th {
+  font-size: 12px;
+  font-weight: 500;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.vue-hierarchy tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+.vue-hierarchy tbody tr:not(:last-child) > td, .vue-hierarchy thead th, .q-table--horizontal-separator tbody tr:not(:last-child) > td, .q-table--horizontal-separator thead th {
+  border-bottom: 1px solid rgba(0, 0, 0, .12);
+}
+
+table {
+  border-spacing: 0px;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.padding_left {
+  padding-left: 30px !important;
+}
