@@ -1,0 +1,40 @@
+{
+  "name": "vue-hierarchy",
+  "version": "0.0.1",
+  "description": "Vue Hierarchy allows you to display data in hierarchy structure.",
+  "main": "dist/vue-hierarchy.umd.js",
+  "module": "dist/vue-hierarchy.esm.js",
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik227/vue-hierarchy.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/pratik227"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue3",
+    "component",
+    "hierarchy"
+  ],
+  "author": "Pratik Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "rollup": "^1.32.1",
+    "rollup-plugin-commonjs": "^9.3.4",
+    "rollup-plugin-css-only": "^4.3.0",
+    "rollup-plugin-node-resolve": "^4.2.4",
+    "rollup-plugin-vue": "^6.0.0",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
