@@ -26,7 +26,7 @@ npm  uninstall vue-hierarchy
             label: 'Label',
             align: 'left',
             field: 'label',
-            // (optional) tell QHierarchy you want this column sortable
+            // (optional) tell VueHierarchy you want this column sortable
             sortable: true
         },
         {
