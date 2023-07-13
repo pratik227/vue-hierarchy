@@ -1,6 +1,6 @@
 {
   "name": "vue-hierarchy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Vue Hierarchy allows you to display data in hierarchy structure.",
   "main": "dist/vue-hierarchy.umd.js",
   "module": "dist/vue-hierarchy.esm.js",
